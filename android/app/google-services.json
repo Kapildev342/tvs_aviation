@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225958551702",
+    "project_id": "tvsaviation-15b72",
+    "storage_bucket": "tvsaviation-15b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225958551702:android:f594c5ceef384aa2e3e2b7",
+        "android_client_info": {
+          "package_name": "com.tvs.tvs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4FOx5DD-QpKswQ7Xn7kyKKo8f7NJL_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225958551702:android:0af9c57d8d760555e3e2b7",
+        "android_client_info": {
+          "package_name": "com.tvs.tvsaviation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4FOx5DD-QpKswQ7Xn7kyKKo8f7NJL_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
